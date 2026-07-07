@@ -8,17 +8,15 @@ I believe the best projects come from curiosity, experimentation, and never bein
 
 ---
 
-# 💫 About Me
+## 💫 About Me
 
-## 🎵 Music
+### 🎵 Music
 
 Music is one of my biggest creative outlets.
 
-Under **LuciRift**, I produce modern **Trap**, **Hip-Hop**, and **Electronic-inspired** music built around memorable hooks, cinematic production, and high replay value. Every release is an opportunity to improve my craft and push my sound forward.
+Under **LuciRift**, I produce modern **Trap**, **Hip-Hop**, and **Electronic-inspired** music built around memorable hooks, cinematic production, and high replay value. Every release is another step forward in building the LuciRift sound.
 
----
-
-## 💻 Development
+### 💻 Development
 
 Technology has always been part of who I am.
 
@@ -26,18 +24,16 @@ I enjoy building projects that solve problems, automate tasks, and make ideas be
 
 Current interests include:
 
-- 🌐 Full-Stack Web Development
-- ⚡ Node.js Applications
-- 📦 APIs & Backend Systems
-- 🗄️ Database Design
-- 🐧 Linux
-- ☁️ Self-Hosting & Servers
-- 🐳 Docker
-- 🌍 Cloud Infrastructure
+* 🌐 Full-Stack Web Development
+* ⚡ Node.js Applications
+* 📦 APIs & Backend Systems
+* 🗄️ Database Design
+* 🐧 Linux
+* ☁️ Self-Hosting & Servers
+* 🐳 Docker
+* 🌍 Cloud Infrastructure
 
----
-
-## 🎮 Gaming & Modding
+### 🎮 Gaming & Modding
 
 Gaming sparked my interest in technology long before I started programming.
 
@@ -45,21 +41,17 @@ From **2017–2021**, I was heavily involved in the Xbox 360 modding community, 
 
 Today I'm excited to be back exploring the modding scene while continuing to expand into new platforms and technologies.
 
----
+### 🥽 VR & Digital Creation
 
-## 🥽 VR & Digital Creation
+Outside of coding, I also enjoy creating digital experiences including:
 
-Outside of coding I also enjoy creating digital experiences including:
+* VRChat Worlds
+* Avatar Customization
+* Custom Assets
+* Digital Design
+* Creative Media
 
-- VRChat Worlds
-- Avatar Customization
-- Custom Assets
-- Digital Design
-- Creative Media
-
----
-
-## 🤖 AI & Modern Creativity
+### 🤖 AI & Modern Creativity
 
 I'm an open supporter of AI-assisted creative workflows.
 
@@ -77,15 +69,13 @@ AI simply helps bring those ideas to life.
 
 ## 🚀 Current Focus
 
-Currently I'm focused on:
-
-- 🎵 Building the LuciRift music project
-- 💻 Developing LuciRift LLC
-- 🌐 Creating modern web applications
-- 🐧 Learning Linux and self-hosting
-- 🤖 Exploring AI-assisted workflows
-- 🎮 Xbox Modding
-- 📈 Growing as both a developer and creator
+* 🎵 Building the next era of LuciRift music
+* 💻 Developing LuciRift LLC
+* 🌐 Creating modern web applications
+* 🐧 Learning Linux and self-hosting
+* 🤖 Exploring AI-assisted workflows
+* 🎮 Xbox modding and homebrew
+* 📈 Growing as both a developer and creator
 
 ---
 
@@ -125,81 +115,93 @@ Always learning.
 
 ## 🌐 Socials
 
-[![Website](https://img.shields.io/badge/Website-00318A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lucirift.com)
-[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/lucirift)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/lucirift)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/lucirift)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@lucirift)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/lucirift)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/lucirift)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@UCAZZIo6lk_S96FMhn1jpBeA)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@lucirift.com)
+[![Website](https://img.shields.io/badge/Website-00318A?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://lucirift.com)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge\&logo=bluesky\&logoColor=white)](https://bsky.app/profile/lucirift)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.gg/lucirift)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge\&logo=facebook\&logoColor=white)](https://facebook.com/lucirift)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge\&logo=tiktok\&logoColor=white)](https://tiktok.com/@lucirift)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge\&logo=twitch\&logoColor=white)](https://twitch.tv/lucirift)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/lucirift)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://youtube.com/@UCAZZIo6lk_S96FMhn1jpBeA)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:contact@lucirift.com)
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
-### Languages
+### Languages & Markup
 
-- JavaScript
-- Node.js
-- PHP
-- C#
-- HTML5
-- Markdown
-- EJS
+![JavaScript](https://img.shields.io/badge/JavaScript-00318A?style=for-the-badge\&logo=javascript\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-00318A?style=for-the-badge\&logo=node.js\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-00318A?style=for-the-badge\&logo=php\&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-00318A?style=for-the-badge\&logo=csharp\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-00318A?style=for-the-badge\&logo=html5\&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-00318A?style=for-the-badge\&logo=markdown\&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-00318A?style=for-the-badge\&logo=ejs\&logoColor=white)
 
-### Backend & Databases
+### Backend, Servers & Tools
 
-- MongoDB
-- Nginx
-- Docker
-- Cloudflare
+![MongoDB](https://img.shields.io/badge/MongoDB-00318A?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-00318A?style=for-the-badge\&logo=nginx\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-00318A?style=for-the-badge\&logo=docker\&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-00318A?style=for-the-badge\&logo=cloudflare\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-00318A?style=for-the-badge\&logo=git\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-00318A?style=for-the-badge\&logo=linux\&logoColor=white)
 
-### Development
+### Platforms & Creative Tools
 
-- Git
-- Linux
-- Self Hosting
-- REST APIs
-
-### Creative
-
-- Adobe Creative Cloud
-- Unity
-- VRChat Creation
-- AI Creative Tools
-
-### Platforms
-
-- Xbox
-- Steam
-- NVIDIA
-- OVHcloud
-- Linode
+![Xbox](https://img.shields.io/badge/Xbox-00318A?style=for-the-badge\&logo=xbox\&logoColor=white)
+![Steam](https://img.shields.io/badge/Steam-00318A?style=for-the-badge\&logo=steam\&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-00318A?style=for-the-badge\&logo=nvidia\&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-00318A?style=for-the-badge\&logo=unity\&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe-00318A?style=for-the-badge\&logo=adobe\&logoColor=white)
+![OVHcloud](https://img.shields.io/badge/OVHcloud-00318A?style=for-the-badge\&logo=ovh\&logoColor=white)
+![Linode](https://img.shields.io/badge/Linode-00318A?style=for-the-badge\&logo=linode\&logoColor=white)
 
 ---
 
-# 📊 GitHub Stats
+## 🧩 Featured Project Areas
 
-![](https://github-readme-stats.vercel.app/api?username=LuciRift&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+### 🌐 Web Development
 
-![](https://nirzak-streak-stats.vercel.app/?user=LuciRift&theme=tokyonight&hide_border=true)
+Building modern websites, dashboards, storefronts, and backend systems with Node.js, EJS, MongoDB, and server-side infrastructure.
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LuciRift&theme=tokyonight&hide_border=true&layout=compact)
+### 🎵 Music & Media
+
+Creating AI-assisted Trap, Hip-Hop, and Electronic-inspired music, visuals, videos, and branding under the LuciRift project.
+
+### 🎮 Console Modding
+
+Exploring Xbox modding, homebrew, gaming tools, and the technology behind older and newer console ecosystems.
+
+### 🥽 VRChat Creation
+
+Working with VRChat worlds, avatars, custom assets, and immersive digital spaces.
+
+### 🐧 Linux & Self-Hosting
+
+Experimenting with Linux distributions, server management, Docker, Cloudflare, and self-hosted infrastructure.
 
 ---
 
-# 🏆 GitHub Trophies
+## 📊 GitHub Stats
 
-![](https://github-profile-trophy.vercel.app/?username=LuciRift&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6)
+![LuciRift GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuciRift\&show_icons=true\&theme=github_dark\&hide_border=true\&include_all_commits=true\&count_private=true\&cache_seconds=1800)
 
----
-
-# 📈 Top Contributed Repositories
-
-![](https://github-contributor-stats.vercel.app/api?username=LuciRift&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![LuciRift Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuciRift\&layout=compact\&theme=github_dark\&hide_border=true\&cache_seconds=1800)
 
 ---
 
-![](https://visitcount.itsvg.in/api?id=LuciRift&icon=5&color=6)
+## 🏆 GitHub Trophies
+
+![LuciRift GitHub Trophies](https://github-profile-trophy.vercel.app/?username=LuciRift\&theme=discord\&no-frame=true\&no-bg=true\&margin-w=6)
+
+---
+
+## 📈 Top Contributed Repositories
+
+![LuciRift Contributor Stats](https://github-contributor-stats.vercel.app/api?username=LuciRift\&limit=5\&theme=github_dark\&combine_all_yearly_contributions=true)
+
+---
+
+![Profile Views](https://visitcount.itsvg.in/api?id=LuciRift\&icon=5\&color=6)
