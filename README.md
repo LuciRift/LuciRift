@@ -1,25 +1,205 @@
-# 💫 About Me:
-Since emerging in 2025, I’ve been carving out my own lane in Trap and Hip Hop [Explicit]. My sound fuses glitch-heavy, bass-driven production with dubstep grit and industrial punch built for impact, precision, and raw energy. Every bar hits with intent, blending rapid-fire lyricism and dark cinematic atmosphere to create something that feels alive, dangerous, and undeniable.<br><br>Background<br>From 2017 to 2021, I was deep in the Xbox 360 modding community building, experimenting, and pushing boundaries. After stepping away for a few years, I’ve rejoined that world in late 2025, bringing a sharper creative vision and a heavier focus on innovation.<br><br>Beyond the Music<br>Outside of music, <br><br>I create custom worlds and skins for VRChat avatars<br>Develop Node.js tools and small apps<br>Build digital projects that fuse creativity with technology<br>I also produce 18+ content for TikTok, YouTube, and other platforms each piece made with the same mindset that fuels my music: authenticity, intensity, and the refusal to blend in.<br><br>The Statement<br>LucRift isn’t just a name it’s a statement of defiance, independence, and creative dominance. Everything I make is unapologetically mine, built for those who move differently and never follow the crowd.
+# 👋 Hey, I'm LuciRift
 
+> **Creator • Developer • Music Artist • Technology Enthusiast**
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/lucirift) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/lucirift) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/lucirift) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@lucirift) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/lucirift) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/lucirift) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCAZZIo6lk_S96FMhn1jpBeA) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@lucirift.com) 
+Welcome to my GitHub! I'm passionate about creating projects that bring together technology, creativity, and modern digital culture. Whether I'm developing software, producing music, experimenting with Linux, building servers, or designing immersive VR experiences, I'm always learning something new and pushing my skills further.
 
-# 💻 Tech Stack:
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=LuciRift&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=LuciRift&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LuciRift&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=LuciRift&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=LuciRift&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I believe the best projects come from curiosity, experimentation, and never being afraid to build something different.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=LuciRift&icon=0&color=0)](https://visitcount.itsvg.in)
+
+# 💫 About Me
+
+## 🎵 Music
+
+Music is one of my biggest creative outlets.
+
+Under **LuciRift**, I produce modern **Trap**, **Hip-Hop**, and **Electronic-inspired** music built around memorable hooks, cinematic production, and high replay value. Every release is an opportunity to improve my craft and push my sound forward.
+
+---
+
+## 💻 Development
+
+Technology has always been part of who I am.
+
+I enjoy building projects that solve problems, automate tasks, and make ideas become reality.
+
+Current interests include:
+
+- 🌐 Full-Stack Web Development
+- ⚡ Node.js Applications
+- 📦 APIs & Backend Systems
+- 🗄️ Database Design
+- 🐧 Linux
+- ☁️ Self-Hosting & Servers
+- 🐳 Docker
+- 🌍 Cloud Infrastructure
+
+---
+
+## 🎮 Gaming & Modding
+
+Gaming sparked my interest in technology long before I started programming.
+
+From **2017–2021**, I was heavily involved in the Xbox 360 modding community, creating projects, experimenting with homebrew, and learning how systems work.
+
+Today I'm excited to be back exploring the modding scene while continuing to expand into new platforms and technologies.
+
+---
+
+## 🥽 VR & Digital Creation
+
+Outside of coding I also enjoy creating digital experiences including:
+
+- VRChat Worlds
+- Avatar Customization
+- Custom Assets
+- Digital Design
+- Creative Media
+
+---
+
+## 🤖 AI & Modern Creativity
+
+I'm an open supporter of AI-assisted creative workflows.
+
+As someone with learning disabilities, AI has become an incredibly valuable tool that helps me understand complex topics, learn new skills faster, and turn ideas into finished projects.
+
+To me, AI doesn't replace creativity.
+
+It expands what's possible.
+
+Every project still starts with a human idea.
+
+AI simply helps bring those ideas to life.
+
+---
+
+## 🚀 Current Focus
+
+Currently I'm focused on:
+
+- 🎵 Building the LuciRift music project
+- 💻 Developing LuciRift LLC
+- 🌐 Creating modern web applications
+- 🐧 Learning Linux and self-hosting
+- 🤖 Exploring AI-assisted workflows
+- 🎮 Xbox Modding
+- 📈 Growing as both a developer and creator
+
+---
+
+## 🌌 Philosophy
+
+Technology changes.
+
+Creativity evolves.
+
+Learning never stops.
+
+Whether it's music, software, gaming, AI, or digital media, I enjoy creating things that didn't exist yesterday.
+
+My goal isn't simply to build projects.
+
+It's to keep improving with every one.
+
+---
+
+## 💙 The LuciRift Project
+
+LuciRift is more than a username.
+
+It's my long-term creative identity.
+
+A place where music, software, technology, gaming, AI, and digital creativity all come together under one brand.
+
+I'm always experimenting.
+
+Always building.
+
+Always learning.
+
+**Welcome to the Rift.**
+
+---
+
+## 🌐 Socials
+
+[![Website](https://img.shields.io/badge/Website-00318A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lucirift.com)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/lucirift)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/lucirift)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/lucirift)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@lucirift)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/lucirift)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/lucirift)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@UCAZZIo6lk_S96FMhn1jpBeA)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@lucirift.com)
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+- JavaScript
+- Node.js
+- PHP
+- C#
+- HTML5
+- Markdown
+- EJS
+
+### Backend & Databases
+
+- MongoDB
+- Nginx
+- Docker
+- Cloudflare
+
+### Development
+
+- Git
+- Linux
+- Self Hosting
+- REST APIs
+
+### Creative
+
+- Adobe Creative Cloud
+- Unity
+- VRChat Creation
+- AI Creative Tools
+
+### Platforms
+
+- Xbox
+- Steam
+- NVIDIA
+- OVHcloud
+- Linode
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=LuciRift&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=LuciRift&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LuciRift&theme=tokyonight&hide_border=true&layout=compact)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=LuciRift&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6)
+
+---
+
+# 📈 Top Contributed Repositories
+
+![](https://github-contributor-stats.vercel.app/api?username=LuciRift&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
+
+![](https://visitcount.itsvg.in/api?id=LuciRift&icon=5&color=6)
