@@ -184,24 +184,19 @@ Experimenting with Linux distributions, server management, Docker, Cloudflare, a
 
 ---
 
-## 📊 GitHub Stats
+## 🧩 Featured Project Areas
 
-![LuciRift GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuciRift\&show_icons=true\&theme=github_dark\&hide_border=true\&include_all_commits=true\&count_private=true\&cache_seconds=1800)
+### 🌐 Web Development
+Building modern websites, dashboards, storefronts, and backend systems with Node.js, EJS, MongoDB, and server-side infrastructure.
 
-![LuciRift Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuciRift\&layout=compact\&theme=github_dark\&hide_border=true\&cache_seconds=1800)
+### 🎵 Music & Media
+Creating AI-assisted Trap, Hip-Hop, Electronic-inspired music, visuals, videos, and branding under the LuciRift project.
 
----
+### 🎮 Console Modding
+Exploring Xbox modding, homebrew, gaming tools, and the technology behind older and newer console ecosystems.
 
-## 🏆 GitHub Trophies
+### 🥽 VRChat Creation
+Working with VRChat worlds, avatars, custom assets, and immersive digital spaces.
 
-![LuciRift GitHub Trophies](https://github-profile-trophy.vercel.app/?username=LuciRift\&theme=discord\&no-frame=true\&no-bg=true\&margin-w=6)
-
----
-
-## 📈 Top Contributed Repositories
-
-![LuciRift Contributor Stats](https://github-contributor-stats.vercel.app/api?username=LuciRift\&limit=5\&theme=github_dark\&combine_all_yearly_contributions=true)
-
----
-
-![Profile Views](https://visitcount.itsvg.in/api?id=LuciRift\&icon=5\&color=6)
+### 🐧 Linux & Self-Hosting
+Experimenting with Linux distributions, server management, Docker, Cloudflare, and self-hosted infrastructure.
